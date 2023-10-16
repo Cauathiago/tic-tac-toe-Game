@@ -45,12 +45,12 @@ function handleResultValidation() {
             roundWon = true;
             break
         }
-    }
+    } 
 
     if (roundWon) {
         statusDisplay.innerHTML = winningMessage();
         gameActive = false;
-        statusDisplay.style.color = "rgb(251,100,204)";
+        statusDisplay.style.color = "rgb(23, 252, 2)";
         return;
     }
 
@@ -58,7 +58,7 @@ function handleResultValidation() {
     if (roundDraw) {
         statusDisplay.innerHTML = drawMessage();
         gameActive = false;
-        statusDisplay.style.color = "rgb(251,100,204)";
+        statusDisplay.style.color = "rgb(255, 255, 0)";
         return;
     }
 
