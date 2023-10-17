@@ -13,4 +13,4 @@ Nesse repositório você vai encontrar um joguinho chamado **Tic-Tac-Toe** ou pa
 ## Link dele rodando ao vivo e em todas as telas! 
 
 
-Clique [neste link azul](https://cauathiago.github.io/tic-tac-toe-Game_v1/), para poder ter acesso ao site.
+Clique [neste link azul](https://cauathiago.github.io/tic-tac-toe-Game/), para poder ter acesso ao site.
